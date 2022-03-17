@@ -1,0 +1,66 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Gribo11 
+yankovalenko94
+/
+JS_task_answers
+Public
+Code
+Issues
+3
+Pull requests
+27
+Actions
+Projects
+Wiki
+Security
+Insights
+JS_task_answers/React_Redux_step_1/.gitignore
+@ivanpetrychenko
+ivanpetrychenko new react+redux course, module 1-2
+Latest commit 32f8026 on 23 Sep 2021
+ History
+ 1 contributor
+23 lines (18 sloc)  310 Bytes
+  
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
